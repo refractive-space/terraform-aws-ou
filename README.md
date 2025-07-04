@@ -1,7 +1,7 @@
 # AWS Organizations OU Terraform Module
 
 [![Terraform Registry](https://img.shields.io/badge/terraform-registry-blue.svg)](https://registry.terraform.io/modules/your-org/ou/aws)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Terraform Version](https://img.shields.io/badge/terraform-%3E%3D1.8.0-blue.svg)](https://www.terraform.io/)
 [![AWS Provider](https://img.shields.io/badge/aws-%3E%3D5.0-orange.svg)](https://registry.terraform.io/providers/hashicorp/aws/latest)
 
@@ -268,7 +268,7 @@ Contributions are welcome! Please read the contributing guidelines and submit pu
 
 ## License
 
-This module is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This module is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
 
 ## Support
 
