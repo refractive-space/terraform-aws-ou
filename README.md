@@ -268,7 +268,14 @@ Contributions are welcome! Please read the contributing guidelines and submit pu
 
 ## License
 
-This module is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+This module is licensed under the **Apache License 2.0**, which means you can:
+
+- ✅ **Use it freely** for any purpose (commercial or non-commercial)
+- ✅ **Modify and distribute** your changes
+- ✅ **Include it in proprietary software** without restriction
+- ✅ **Use it forever** without worrying about license changes
+
+The Apache License 2.0 is one of the most permissive open-source licenses, ensuring this module will always remain free and available for everyone. See [LICENSE](LICENSE) for the full license text.
 
 ## Support
 
